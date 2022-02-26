@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anas20001
 - 👀 I’m interested in Data science, machine learning, deep learning  
-- 🌱 I’m currently learning Deeo learning
+- 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Data science and machine learning projects 
 - 📫 reach me -----> anasmohemmed21@yahoo.com
 
