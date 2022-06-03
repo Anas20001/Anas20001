@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anas , a full-time data science learner 👨‍💻 practicing data science since 2020 🚀</div>  
+### <div align="center">I'm Anas , a full-time data science learner 👨‍💻 practicing data science since 2019 🚀</div>  
   
 
 - 🔭  I’m currently an undergraduate mechatronics engineer in Zagazig school of engineering. Fascinated on  working with all about data   
