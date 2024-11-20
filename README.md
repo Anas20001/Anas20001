@@ -6,7 +6,7 @@
 ### <div align="center">I'm Anas , a full-time data science learner 👨‍💻 practicing data science since 2019 🚀</div>  
   
 
-- 🔭  I’m currently a Data scientist intern at DiLT Analytics based in Graz, Auatria
+- 🔭  I’m currently a Data scientist at DiLT Analytics based in Graz, Auatria
 - Also I'm an undergraduate mechatronics engineer in Zagazig school of engineering. Fascinated on  working with all about data   
   
 
