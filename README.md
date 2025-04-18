@@ -3,11 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Anas , a full-time data science learner 👨‍💻 practicing data science since 2019 🚀</div>  
+### <div align="center">I'm Anas , a full-time data learner 👨‍💻 practicing all things data since 2019 🚀</div>  
   
 
-- 🔭  I’m currently a Data scientist at DiLT Analytics based in Graz, Auatria
-- Also I'm an undergraduate mechatronics engineer in Zagazig school of engineering. Fascinated on  working with all about data   
+- 🔭  I’m currently a Data Engineer 
+- Also I'm Fascinated on  working with all about data   
   
 
 - 🌱 I’m currently learning all about the intersection between Cloud technologies and Data    
